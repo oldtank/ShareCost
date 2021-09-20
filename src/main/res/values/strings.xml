@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShareCost</string>
+    <string name="event_title_label">Title</string>
+    <string name="event_title_hint">Enter a title for the event</string>
+    <string name="number_of_people_label">No. of People</string>
+    <string name="new_event">New event</string>
+    <string name="delete_event">Delete event</string>
+    <string name="on_date_label">on</string>
+    <string name="bill_desc_label">Description</string>
+    <string name="bill_amount_label">Amount</string>
+    <string name="bill_paid_by_label">Paid by</string>
+    <string name="person_name_label">Name</string>
+    <string name="bill_for_everyone_label">For everyone</string>
+</resources>
